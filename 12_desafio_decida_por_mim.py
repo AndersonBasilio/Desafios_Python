@@ -15,8 +15,10 @@ while True:
         print(f'Não reconhcia a pergunta, pois é muito curta ou você digitou algo errado.')
         
     continuar = input('Deseja continuar: [Sim/Não] ').lower()
-    if continuar != 'sim':
+    if continuar == 'sim':
+        continue
+    else:
+        os.system('cls')  
+        print('Obrigado por participar.')
+        print('Volte sempre!!!')  
         break
-    
-    print('Obrigado por participar.')
-    print('Volte sempre!!!')
