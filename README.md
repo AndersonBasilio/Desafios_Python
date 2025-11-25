@@ -8,11 +8,7 @@ Repositório com uma coleção de desafios e exercícios em **Python**, voltados
 
 - [Sobre](#-sobre)  
 - [Desafios](#-desafios)  
-- [Tecnologias](#-tecnologias)  
-- [Como Rodar](#-como-rodar)  
-- [Contribuições](#-contribuições)  
-- [Licença](#-licença)  
-- [Contato](#-contato)  
+- [Tecnologias](#-tecnologias)   
 
 ---
 
